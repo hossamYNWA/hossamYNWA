@@ -2,7 +2,7 @@
 <h3 align="center">Retail expert who knows web and using data to improve availability, forecasting and performance</h3>
 
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycTgwdDB0NGRmdnNlYWV0ZDljNHpxaG5lNTh6eW1seTVwZGtsejBuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/200w.gif" alt="-" style="display:block; margin:auto" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycTgwdDB0NGRmdnNlYWV0ZDljNHpxaG5lNTh6eW1seTVwZGtsejBuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/200w.gif" alt="-" style="display: block; margin: 0 auto;" />
 
 
 - 🔭 I’m currently working on **Inventory and category analytics projects.**
