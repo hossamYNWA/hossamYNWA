@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hossam</h1>
 <h3 align="center">Retail expert who knows web and using data to improve availability, forecasting and performance</h3>
 
-<div style="text-align:center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycTgwdDB0NGRmdnNlYWV0ZDljNHpxaG5lNTh6eW1seTVwZGtsejBuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/200w.gif" alt="-" style="display:inline-block;" />
-</div>
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycTgwdDB0NGRmdnNlYWV0ZDljNHpxaG5lNTh6eW1seTVwZGtsejBuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/200w.gif" alt="-" style="display:block; margin:auto" />
+
 
 - 🔭 I’m currently working on **Inventory and category analytics projects.**
 
